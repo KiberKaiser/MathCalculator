@@ -1,0 +1,10 @@
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.CalculatorForm.resources
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\1onei\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
